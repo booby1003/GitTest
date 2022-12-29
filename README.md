@@ -1,1 +1,2 @@
 # GitTest
+# git squash test
